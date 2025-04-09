@@ -1,0 +1,5 @@
+#ignore all files in the root directory
+# *.html
+
+#ignore all files that aren't in the root directory
+*/*.html

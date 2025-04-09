@@ -1,0 +1,6 @@
+#The exclamation mark (!) negates the pattern in this case,
+#and the slash (/) means “start this rule from this directory.”
+#So this rule says, “Despite any higher-level rules, don’t ignore
+#any HTML files, starting in this directory or lower.”
+
+!/*.html
