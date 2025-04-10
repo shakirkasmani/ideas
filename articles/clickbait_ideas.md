@@ -11,3 +11,4 @@ These articles shouldn't really have any content, but need titles that are irres
 - [ ] The Apple announcement that should worry Swift developers
 - [ ] iOS 13 to bring back skeuomorphism amidst falling iPhone sales
 - [ ] Flutter state managment 
+- [ ] What they don’t want you to know about 5G
